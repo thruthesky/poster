@@ -1,0 +1,7 @@
+url: https://www.facebook.com/login.php?login_attempt=1&lwv=110
+input hidden found: 11
+
+Fatal error: Uncaught Error: Call to undefined method DOMElement::attr() in /Users/thruthesky/lab/poster/facebook.php:43
+Stack trace:
+#0 {main}
+  thrown in /Users/thruthesky/lab/poster/facebook.php on line 43
