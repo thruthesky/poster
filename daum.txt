@@ -1,0 +1,45 @@
+HTTP/1.1 200 OK
+Date: Tue, 17 Oct 2017 08:50:46 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: uvkey=WeXEZsuFomcAAEzVoQsAAAAk; expires=Thu, 31-DEC-2020 00:00:00 GMT; path=/; domain=.search.daum.net;
+Set-Cookie: ssab=; expires=-1; path=/; domain=.daum.net;
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Server: kws
+Cache-Control: private, no-cache, max-age=0
+Expires: -1
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+Array
+(
+    [0] => Array
+        (
+            [0] => Set-Cookie: uvkey=WeXEZsuFomcAAEzVoQsAAAAk;
+            [1] => Set-Cookie: ssab=;
+        )
+
+    [1] => Array
+        (
+            [0] => uvkey=WeXEZsuFomcAAEzVoQsAAAAk
+            [1] => ssab=
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => Set-Cookie: uvkey=WeXEZsuFomcAAEzVoQsAAAAk;
+            [1] => Set-Cookie: ssab=;
+        )
+
+    [1] => Array
+        (
+            [0] => uvkey=WeXEZsuFomcAAEzVoQsAAAAk
+            [1] => ssab=
+        )
+
+)
